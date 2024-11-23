@@ -1,20 +1,18 @@
 # Hi, I'm Jorge! <br/>
-<a href="https://github.com/jorgetorres">Data Analyst</a>, <a href="https://www.youtube.com/c/jorgetorres">Marketing Analyst</a>
+<a href="https://github.com/trjb17">Data Analyst</a>, <a href="https://www.linkedin.com/in/jorge-b-torres-59785b163/">Marketing Analyst</a>, <a href="https://www.youtube.com/@jor_g8645">Content Creator</a>
 
 ## 👨‍💻 Data Projects:
 
 - **Graduation & Dropout Trend Analysis (Python, Pandas, SQL)**  
-  - [Diplomas and Detours: An Analysis of Graduation and Dropout Trends](https://github.com/jorgetorres/Graduation-Dropout-Analysis)
+  - [Diplomas and Detours: An Analysis of Graduation and Dropout Trends](https://github.com/trjb17/Graduation-Dropout-Analysis)
 - **Sports Participation Analytics (Python, Pandas, BeautifulSoup)**  
-  - [Analyzing Sports Across the US](https://github.com/jorgetorres/Sports-Participation-Analysis)
+  - [Analyzing Sports Across the US](https://github.com/trjb17/Sports-Participation-Analysis)
 - **Machine Learning Model for Diabetes Prediction (TensorFlow, Scikit-learn)**  
-  - [Using Machine Learning to Predict Diabetes](https://github.com/jorgetorres/Diabetes-Prediction-Model)
+  - [Using Machine Learning to Predict Diabetes](https://github.com/trjb17/Diabetes-Prediction-Model)
 
 ## 📺 Popular YouTube Videos
-
-- [How to get into Data Analytics Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Data Analyst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a Data Dashboard (Tableau)](https://www.youtube.com/watch?v=N-L9hklSlNk)
+https://www.youtube.com/watch?v=U7TKv_xICeU&t=31s
+https://www.youtube.com/watch?v=SQ0rqj4o9Zk&t=142s
 
 ## 🤳 Connect with me:
 
@@ -22,11 +20,13 @@
 [<img align="left" alt="JorgeTorres | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]  
 [<img align="left" alt="JorgeTorres | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
 [<img align="left" alt="JorgeTorres | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]  
+[<img align="left" alt="JorgeTorres | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]  
 
 [twitter]: https://twitter.com/jorgetorres  
-[youtube]: https://www.youtube.com/c/jorgetorres  
-[instagram]: https://www.instagram.com/jorgetorres/  
-[linkedin]: https://linkedin.com/in/jorge-b-torres-59785b163/
+[youtube]: https://www.youtube.com/@jor_g8645  
+[instagram]: https://www.instagram.com/jor____g/  
+[linkedin]: https://linkedin.com/in/jorge-b-torres-59785b163/  
+[facebook]: https://www.facebook.com/ledzbottx/
 
 ## 📚 Education:
 
