@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Jorge B. Torres | Portfolio</title>
+    <title style="display:none;">Jorge B. Torres | Portfolio</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -14,6 +14,12 @@
             line-height: 1.6;
             padding-bottom: 50px;
         }
+
+        /* Hide any unwanted elements from view */
+        title, style {
+            display: none;
+        }
+        
         h1, h2 {
             font-size: 24px;
             color: #2c3e50;
@@ -60,15 +66,22 @@
 <body>
 
 <h1>Hi, I'm Jorge! <br/>
-    <a href="https://github.com/trjb17">Github</a>, 
-    <a href="https://www.linkedin.com/in/jorge-b-torres-59785b163/">Linkedin</a>
+    <a href="https://github.com/trjb17">Programmer</a>, 
+    <a href="https://www.linkedin.com/in/jorge-b-torres-59785b163/">Data Analyst</a>
 </h1>
 
-<h2>👨‍💻 Data Projects:</h2>
+<h2>👨‍💻 Software Development & Data Projects:</h2>
 <ul>
     <li><b>Graduation & Dropout Trend Analysis (Python, Pandas, SQL)</b> - <a href="https://github.com/trjb17/project-1">Diplomas and Detours: An Analysis of Graduation and Dropout Trends</a></li>
     <li><b>Sports Participation Analytics (Python, Pandas, BeautifulSoup)</b> - <a href="https://github.com/kathryndavis0036/project3/tree/Jorge">Analyzing Sports Across the US</a></li>
     <li><b>Machine Learning Model for Diabetes Prediction (TensorFlow, Scikit-learn)</b> - <a href="https://github.com/mdurney1724/Project4/tree/Jorge">Using Machine Learning to Predict Diabetes</a></li>
+</ul>
+
+<h2>📺 Popular YouTube Videos:</h2>
+<ul>
+    <li><a href="https://www.youtube.com/watch?v=a83ASGn_V_s">How to get into Data Analytics Starting From Zero</a></li>
+    <li><a href="https://www.youtube.com/watch?v=uHy3oM7NnoU">A Day in the Life of a Data Analyst</a></li>
+    <li><a href="https://www.youtube.com/watch?v=N-L9hklSlNk">How to Create a Data Dashboard (Tableau)</a></li>
 </ul>
 
 <h2>🤳 Connect with me:</h2>
