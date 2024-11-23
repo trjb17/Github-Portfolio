@@ -11,8 +11,8 @@
   - [Using Machine Learning to Predict Diabetes](https://github.com/trjb17/Diabetes-Prediction-Model)
 
 ## 📺 Popular YouTube Videos
-https://www.youtube.com/watch?v=U7TKv_xICeU&t=31s
-https://www.youtube.com/watch?v=SQ0rqj4o9Zk&t=142s
+<a href="https://www.youtube.com/watch?v=U7TKv_xICeU&t=31s">Wry Twist of Fate</a>,
+<a href="https://www.youtube.com/watch?v=SQ0rqj4o9Zk&t=142s">Grand Central Cafe, Chainsaw Massacre Film set</a>
 
 ## 🤳 Connect with me:
 
