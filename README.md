@@ -1,5 +1,5 @@
 # Hi, I'm Jorge! <br/>
-<a href="https://github.com/trjb17">Data Analyst</a>, <a href="https://www.linkedin.com/in/jorge-b-torres-59785b163/">Marketing Analyst</a>, <a href="https://www.facebook.com/ledzbottx/">Content Creator</a>
+<a href="https://github.com/trjb17">Data Analyst</a>, <a href="https://www.linkedin.com/in/jorge-b-torres-59785b163/">Marketing Analyst</a>, <a href="https://trjb17.wixsite.com/my-site/bio">Content Creator</a>
 
 ## 👨‍💻 Data Projects:
 
@@ -12,8 +12,8 @@
 
 ## 📺 Popular YouTube Videos
 <a href="https://www.youtube.com/watch?v=U7TKv_xICeU&t=31s">Wry Twist of Fate</a>,
-<a href="https://www.youtube.com/watch?v=SQ0rqj4o9Zk&t=142s">Grand Central Cafe, Chainsaw Massacre Film set</a>
-
+<a href="https://www.youtube.com/watch?v=SQ0rqj4o9Zk&t=142s">Grand Central Cafe Chainsaw Massacre Film set</a>
+<a href="https://www.youtube.com/watch?v=mfKH_OFen4A&t=11s">ZBOT LED Robot Freaky Deaky</a>
 ## 🤳 Connect with me:
 
 [<img align="left" alt="JorgeTorres | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]  
