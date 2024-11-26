@@ -1,5 +1,5 @@
 # Hi, I'm Jorge! <br/>
-<a href="https://github.com/trjb17">Data Analyst</a>, <a href="https://www.linkedin.com/in/jorge-b-torres-59785b163/">Marketing Analyst</a>, <a href="https://trjb17.wixsite.com/my-site/bio">Content Creator</a>
+<a href="https://github.com/trjb17">Data Analyst</a>, <a href="https://www.linkedin.com/in/jorge-b-torres-59785b163/">Marketing Analyst</a>, <a href="https://trjb17.wixsite.com/my-site/portfolio">Content Creator</a>
 
 ## 👨‍💻 Data Projects:
 
