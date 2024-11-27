@@ -4,11 +4,11 @@
 ## 👨‍💻 Data Projects:
 
 - **Graduation & Dropout Trend Analysis (Python, Pandas, SQL)**  
-  - [Diplomas and Detours: An Analysis of Graduation and Dropout Trends](https://github.com/trjb17/Graduation-Dropout-Analysis)
+  - [Diplomas and Detours: An Analysis of Graduation and Dropout Trends](https://github.com/trjb17/project-1/blob/main/README.md)
 - **Sports Participation Analytics (Python, Pandas, BeautifulSoup)**  
-  - [Analyzing Sports Across the US](https://github.com/trjb17/Sports-Participation-Analysis)
+  - [Analyzing Sports Across the US](https://github.com/kathryndavis0036/project3/blob/main/ReadMe.md)
 - **Machine Learning Model for Diabetes Prediction (TensorFlow, Scikit-learn)**  
-  - [Using Machine Learning to Predict Diabetes](https://github.com/trjb17/Diabetes-Prediction-Model)
+  - [Using Machine Learning to Predict Diabetes](https://github.com/mdurney1724/Project4/blob/main/README.md)
 
 ## 📺 Popular YouTube Videos
 <a href="https://www.youtube.com/watch?v=U7TKv_xICeU&t=31s">Wry Twist of Fate</a>,
