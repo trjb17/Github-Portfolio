@@ -22,7 +22,7 @@
 [<img align="left" alt="JorgeTorres | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]  
 [<img align="left" alt="JorgeTorres | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]  
 
-[twitter]: https://twitter.com/jorgetorres
+[twitter]: https://x.com/El_Jor__G
 [youtube]: https://www.youtube.com/@jor_g8645  
 [instagram]: https://www.instagram.com/jor____g/  
 [linkedin]: https://linkedin.com/in/jorge-b-torres-59785b163/  
