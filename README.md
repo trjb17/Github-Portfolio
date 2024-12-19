@@ -3,6 +3,8 @@
 
 ## 👨‍💻 Data Projects:
 
+<a href= "https://trjb17.github.io/2001-Fifa-Club-World-Cup/">- **2001 FIFA Club World Cup**</a>
+[Simulator]
 - **Graduation & Dropout Trend Analysis (Python, Pandas, SQL)**  
   - [Diplomas and Detours: An Analysis of Graduation and Dropout Trends](https://github.com/trjb17/project-1/blob/main/README.md)
 - **Sports Participation Analytics (Python, Pandas, BeautifulSoup)**  
@@ -30,7 +32,7 @@
 
 ## 📚 Education:
 
-- **Data Analytics Proffesional Certificate** – Google (Dec 2024)
+- **Data Analytics Professional Certificate** – Google (Dec 2024)
 - **Boot Camp Certificate in Data Analytics and Visualization** – University of Texas, Austin, TX (Sep 2024)
 - **Bachelor of Science in Digital Media Innovation** – Texas State University, San Marcos, TX (May 2021)
 
