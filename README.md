@@ -30,6 +30,7 @@
 
 ## 📚 Education:
 
+- **Data Analytics Proffesional Certificate** – Google (Dec 2024)
 - **Boot Camp Certificate in Data Analytics and Visualization** – University of Texas, Austin, TX (Sep 2024)
 - **Bachelor of Science in Digital Media Innovation** – Texas State University, San Marcos, TX (May 2021)
 
