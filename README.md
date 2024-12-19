@@ -3,8 +3,8 @@
 
 ## 👨‍💻 Data Projects:
 
-**2001 FIFA Club World Cup**
-<a href= "https://trjb17.github.io/2001-Fifa-Club-World-Cup/">[Simulator]</a>
+- **2001 FIFA Club World Cup**
+  - [Simulator](https://trjb17.github.io/2001-Fifa-Club-World-Cup)
 - **Graduation & Dropout Trend Analysis (Python, Pandas, SQL)**  
   - [Diplomas and Detours: An Analysis of Graduation and Dropout Trends](https://github.com/trjb17/project-1/blob/main/README.md)
 - **Sports Participation Analytics (Python, Pandas, BeautifulSoup)**  
